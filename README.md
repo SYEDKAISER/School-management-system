@@ -1,2 +1,2 @@
-# Minor-Project-
-Minor Project 
+# School Management System
+manages the regular activities of schools
